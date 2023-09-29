@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# Cesar Gutierrez for CPSC 411A-01 21617
+
+## :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
 
